@@ -113,7 +113,7 @@ Response:
 1. Use NPM to install any needed dependancies that the script requires:
 
         npm install
-1. Edit the 'listen_to_room.js' script and fill in the 'authToken' and 'subscription' variables (See the 'Getting a authToken and roomId' section above if you need help with this)
+1. Edit the 'listen_to_room.js' script and fill in the 'authToken' and 'subscription' variables (See the 'Getting a authToken and roomId' section above if you need help with this) as well as your server's connection details.
 
 ## More info on the Rocket.Chat Real-time API
 
