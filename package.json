@@ -1,0 +1,20 @@
+{
+  "name": "rocketchat-ddp-listener",
+  "version": "0.0.1",
+  "description": "NodeJS script to listen to the DDP real time stream from Rocket.Chat",
+  "main": "ddp.js",
+  "dependencies": {
+    "ddp": "^0.12.1",
+    "ddp-login": "^1.0.10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jszaszvari/rocketchat-ddp-listener.git"
+  },
+  "author": "John Szaszvari",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jszaszvari/rocketchat-ddp-listener/issues"
+  },
+  "homepage": "https://github.com/jszaszvari/rocketchat-ddp-listener#readme"
+}
