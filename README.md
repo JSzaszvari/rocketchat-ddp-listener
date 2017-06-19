@@ -1,5 +1,7 @@
 # Rocket.Chat DDP Listener Example
 
+![ezgif-2-eb541d6666](https://user-images.githubusercontent.com/872463/27273255-91bd1a24-5511-11e7-9dd1-3c5eff69dd73.gif)
+
 ## Summary
 
 **This is a example script written using NodeJS that connects to Rocket.Chat's Real Time API using Meteor's DDP (Distributed Data Protocol) and listens to a Channel/Room.**
