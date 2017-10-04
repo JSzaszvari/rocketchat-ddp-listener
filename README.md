@@ -14,7 +14,7 @@ The DDP protocol is commonly used to write custom chat clients for Meteor based 
 
 ## node-ddp-client
 
-This script utilises the [node-ddp-client package](https://github.com/oortcloud/node-ddp-clien) and [ddp-login package](https://github.com/vsivsi/ddp-login) to talk to Rocket.Chat using it's Real-Time API.
+This script utilises the [node-ddp-client package](https://github.com/oortcloud/node-ddp-client) and [ddp-login package](https://github.com/vsivsi/ddp-login) to talk to Rocket.Chat using it's Real-Time API.
 
 Please see those repositories on how to expand/build on what I have provided as this is just a simple example.
 
